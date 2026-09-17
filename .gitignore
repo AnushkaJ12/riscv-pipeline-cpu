@@ -1,0 +1,10 @@
+# Simulation outputs
+sim/*.vcd
+sim/*.vvp
+
+# Editor / OS files
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
